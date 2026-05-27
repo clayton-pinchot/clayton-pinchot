@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Clayton Pinchot 👋
 
-<!--
-**clayton-pinchot/clayton-pinchot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT student transitioning into systems administration and cybersecurity,
+with hands-on experience in Windows Server, Active Directory, and cloud platforms.
 
-Here are some ideas to get you started:
+## 🔧 Current Projects
+- **[AD & Windows Server Home Lab](https://github.com/clayton-pinchot/AD-Windows-Server-Homelab)** — Multi-VM enterprise lab with domain
+  controller, GPO management, DNS/DHCP, and PowerShell automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Technical Skills
+Windows Server, Active Directory, PowerShell, Linux, Proxmox
+AWS, Microsoft 365, DNS, DHCP, Group Policy 
+
+## 📜 Certifications
+- ✅ AWS Certified Cloud Practitioner
+- 🔄 CompTIA Network+ (in progress — exp. August 2026)
+
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/claytonpinchot/) | [TryHackMe](https://tryhackme.com/p/cpinchot)
