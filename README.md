@@ -9,7 +9,7 @@ with hands-on experience in Windows Server, Active Directory, and cloud platform
 
 
 ## 🛠️ Technical Skills
-Windows Server, Active Directory, PowerShell, Linux, Proxmox
+Windows Server, Active Directory, PowerShell, Linux, Proxmox,
 AWS, Microsoft 365, DNS, DHCP, Group Policy 
 
 ## 📜 Certifications
