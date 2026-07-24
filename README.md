@@ -14,7 +14,7 @@ AWS, Microsoft 365, DNS, DHCP, Group Policy
 
 ## 📜 Certifications
 - ✅ AWS Certified Cloud Practitioner
-- 🔄 CompTIA Network+ (in progress — exp. August 2026)
+- 🔄 CompTIA Network+ (in progress — exp. September 2026)
 
 
 ## 📫 Connect
